@@ -27,5 +27,7 @@ Each training and test example is assigned to one of the following labels:
 | 9 | Ankle boot |
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsv955%2FFashionMNIST_Tensforflow_V2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
